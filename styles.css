@@ -1,0 +1,104 @@
+/* Estilos generales para el tema oscuro */
+html, body {
+  background-color: #121212;
+  color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Mapa ocupa todo el viewport */
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Card de Configuración (tema dark) */
+.config-card {
+  position: absolute;
+  /* Ubicado debajo de la leyenda, ajusta según sea necesario */
+  /* top: 150px; */
+  top: 10px;
+  right: 10px;
+  background: rgba(20, 20, 20, 0.9); /* Fondo oscuro */
+  color: #f1f1f1; /* Texto claro */
+  padding: 15px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  z-index: 10;
+  width: 160px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.config-card h3 {
+  margin-top: 0;
+}
+
+/* Secciones dentro del config card */
+.config-section {
+  margin-bottom: 10px;
+}
+
+.config-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Slider container (puedes optar por mantenerlo claro o cambiarlo) */
+#slider-container {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background: rgba(20, 20, 20, 0.9);
+  color: #f1f1f1;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+/* Legend card (versión dark) */
+#legend {
+  position: absolute;
+  /* top: 20px; */
+  top: 290px;
+  right: 10px;
+  background: rgba(20, 20, 20, 0.9);
+  color: #f1f1f1;
+  padding: 15px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.7);
+  z-index: 10;
+}
+
+#legend h3 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.legend-color {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 1px solid #444;
+}
+
+.legend-text {
+  font-size: 14px;
+}
+
+.mapboxgl-popup-content {
+  background-color: #333 !important;
+  color: #f1f1f1;
+  border-radius: 3px;
+  padding: 10px;
+}
