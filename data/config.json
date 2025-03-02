@@ -1,0 +1,14 @@
+[
+  {
+    "code": "leon",
+    "name": "León",
+    "towns": [
+      {
+        "code": "leon",
+        "name": "León",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/leon.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/leon-coordinates.json"
+      }
+    ]
+  }
+]
