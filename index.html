@@ -3,110 +3,82 @@
 <head>
   <meta charset="utf-8" />
   <title>Mapa Interactivo de Municipios</title>
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no" />
   <!-- Mapbox GL CSS -->
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <!-- Navbar -->
+  <nav id="navbar">
+    <div class="navbar-container">
+      <div class="navbar-brand">Mapa Inteactivo de la Población de Castilla y León</div>
+      <button class="navbar-toggle" id="navbar-toggle">&#9776;</button>
+      <ul class="navbar-menu" id="navbar-menu">
+        <li class="menu-filter">
+          <label>
+            <input type="checkbox" id="menCheckbox" checked>
+            Masculino
+          </label>
+        </li>
+        <li class="menu-filter">
+          <label>
+            <input type="checkbox" id="womenCheckbox" checked>
+            Femenino
+          </label>
+        </li>
+        <li class="menu-filter">
+          <select id="yearSelect">
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024" selected>2024</option>
+          </select>
+        </li>
+        <li id="3d" class="navbar-item"><a href="#">3D</a></li>
+        <li id="2d" class="navbar-item"><a href="#">2D</a></li>
+      </ul>
+    </div>
+  </nav>
+
   <!-- Mapa -->
   <div id="map"></div>
   
-  <!-- Card de Configuración -->
-  <div id="config-card" class="config-card">
-    <h3>Configuración</h3>
-    <div class="config-section">
-      <label for="sexSelect">Sexo:</label>
-      <select id="sexSelect">
-        <option value="both" selected>Ambos</option>
-        <option value="men">Masculino</option>
-        <option value="female">Femenino</option>
-      </select>
+  <!-- Card de Informacion -->
+  <div id="info-card" class="info-card" style="display: none;">
+    <div id="info-content"></div>
+  </div>
+
+  <div id="info-card-2d" class="info-card" style="display: none;">
+    <div id="info-content-2d"></div>
+    <div class="chart-container">
+      <canvas id="chart-canvas-total" width="300" height="200"></canvas>
     </div>
-    <div class="config-section">
-      <label for="yearSlider">Año:</label>
-      <input id="yearSlider" type="range" min="2017" max="2024" step="1" value="2017">
-      <span id="yearValue">2017</span>
-    </div>
-    <div class="config-section">
-      <span>Vista:</span>
-      <label><input type="radio" name="viewMode" value="2d"> 2D</label>
-      <label><input type="radio" name="viewMode" value="3d" checked> 3D</label>
+    <div class="chart-container">
+      <canvas id="chart-canvas" width="300" height="200"></canvas>
     </div>
   </div>
-  
+
+  <!-- towns -->
+  <div id="towns" class="card">
+    <div class="card-item"></div>
+  </div>
+
   <!-- Legend Card -->
-  <div id="legend">
-    <!-- <h3>Leyenda</h3> -->
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #0be047;"></div>
-      <div class="legend-text">0 - 200</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #42d92d;"></div>
-      <div class="legend-text">200 - 400</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #5cd200;"></div>
-      <div class="legend-text">400 - 600</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #70ca00;"></div>
-      <div class="legend-text">600 - 800</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #80c200;"></div>
-      <div class="legend-text">800 - 1000</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #8eba00;"></div>
-      <div class="legend-text">1000 - 1400</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #9bb100;"></div>
-      <div class="legend-text">1400 - 1800</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #b09f00;"></div>
-      <div class="legend-text">1800 - 2200</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #ba9500;"></div>
-      <div class="legend-text">2200 - 2600</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #c28b00;"></div>
-      <div class="legend-text">2600 - 3000</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #cb7f00;"></div>
-      <div class="legend-text">3000 - 3400</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #da6500;"></div>
-      <div class="legend-text">3400 - 3800</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #df5700;"></div>
-      <div class="legend-text">3800 - 4200</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #e44600;"></div>
-      <div class="legend-text">4200 - 4600</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #e83200;"></div>
-      <div class="legend-text">4600 - 5000</div>
-    </div>
-    <div class="legend-item">
-      <div class="legend-color" style="background-color: #ea1010;"></div>
-      <div class="legend-text">5000+</div>
-    </div>
-  </div>
+  <div id="legend" class="card"></div>
   
   <!-- Mapbox GL JS -->
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <!-- Data and Classes -->
   <script src="lib/data/options.js"></script>
   <script src="classes/province.js"></script>
@@ -120,9 +92,15 @@
   <script src="lib/map/2d-map.js"></script>
   <script src="lib/map/3d-map.js"></script>
   <script src="lib/map/drawings.js"></script>
+  <script src="lib/map/custom-controls.js"></script>
+  <script src="lib/map/province-map.js"></script>
   <!-- Components -->
-  <script src="lib/components/slider.js"></script>
-  <!-- Nuevo script para el card de configuración -->
+  <script src="lib/components/info-card-chart.js"></script>
+  <script src="lib/components/towns-checkboxes.js"></script>
   <script src="lib/components/config-card.js"></script>
+  <script src="lib/components/info-card.js"></script>
+  <script src="lib/components/legends-card.js"></script>
+  <!-- Navbar Toggle Script -->
+  <script src="lib/components/navbar.js"></script>
 </body>
 </html>

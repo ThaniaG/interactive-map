@@ -1,0 +1,29 @@
+[
+  {
+    "salamanca": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Salamanca/"
+  },
+  {
+    "leon": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Leon/"
+  },
+  {
+    "palencia": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Palencia/"
+  },
+  {
+    "valladolid": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Valladolid/"
+  },
+  {
+    "avila": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Avila/"
+  },
+  {
+    "burgos": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Burgos/"
+  },
+  {
+    "zamora": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Zamora/"
+  },
+  {
+    "soria": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Soria/"
+  },
+  {
+    "segovia": "https://ftp.itacyl.es/cartografia/05_SIGPAC/2024_ETRS89/Parcelario_SIGPAC_CyL_Municipios/Segovia/"
+  }
+]

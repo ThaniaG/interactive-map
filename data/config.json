@@ -8,7 +8,44 @@
         "name": "León",
         "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/leon.json",
         "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/leon-coordinates.json"
+      },
+      {
+        "code": "salamanca",
+        "name": "Salamanca",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/salamanca.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/salamanca-coordinates.json"
+      },
+      {
+        "code": "palencia",
+        "name": "Palencia",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/palencia.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/palencia-coordinates.json"
+      },
+      {
+        "code": "valladolid",
+        "name": "Valladolid",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/valladolid.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/valladolid-coordinates.json"
+      },
+      {
+        "code": "segovia",
+        "name": "Segovia",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/segovia.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/segovia-coordinates.json"
+      },
+      {
+        "code": "soria",
+        "name": "Soria",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/soria.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/soria-coordinates.json"
+      },
+      {
+        "code": "zamora",
+        "name": "Zamora",
+        "dataUrl": "https://thaniag.github.io/interactive-map/data/leon/zamora.json",
+        "coordenatesUrl": "https://thaniag.github.io/interactive-map/data/leon/zamora-coordinates.json"
       }
-    ]
+    ],
+    "townsCoordinates": "https://thaniag.github.io/interactive-map/data/leon/coordinates.json"
   }
 ]

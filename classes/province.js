@@ -1,10 +1,12 @@
 class Province {
   towns = [];
+  townsCoordinates = [];
   
-  constructor({code, name, towns}) {
+  constructor({code, name, towns, townsCoordinates}) {
     this.code = code;
     this.name = name;
     this.towns = towns;
+    this.townsCoordinates = townsCoordinates;
   }
 }
 

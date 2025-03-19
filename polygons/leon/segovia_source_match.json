@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 40001,
+    "sourceId": 40001,
+    "name": "Abades"
+  },
+  {
+    "id": 40002,
+    "sourceId": 40002,
+    "name": "Adrada de Pirón"
+  },
+  {
+    "id": 40003,
+    "sourceId": 40003,
+    "name": "Adrados"
+  },
+  {
+    "id": 40004,
+    "sourceId": 40004,
+    "name": "Aguilafuente"
+  },
+  {
+    "id": 40005,
+    "sourceId": 40005,
+    "name": "Alconada de Maderuelo"
+  },
+  {
+    "id": 40012,
+    "sourceId": 40012,
+    "name": "Aldea Real"
+  },
+  {
+    "id": 40006,
+    "sourceId": 40006,
+    "name": "Aldealcorvo"
+  },
+  {
+    "id": 40007,
+    "sourceId": 40007,
+    "name": "Aldealengua de Pedraza"
+  },
+  {
+    "id": 40008,
+    "sourceId": 40008,
+    "name": "Aldealengua de Santa María"
+  },
+  {
+    "id": 40009,
+    "sourceId": 40009,
+    "name": "Aldeanueva de la Serrezuela"
+  },
+  {
+    "id": 40010,
+    "sourceId": 40010,
+    "name": "Aldeanueva del Codonal"
+  },
+  {
+    "id": 40013,
+    "sourceId": 40013,
+    "name": "Aldeasoña"
+  },
+  {
+    "id": 40014,
+    "sourceId": 40014,
+    "name": "Aldehorno"
+  },
+  {
+    "id": 40015,
+    "sourceId": 40015,
+    "name": "Aldehuela del Codonal"
+  },
+  {
+    "id": 40017,
+    "sourceId": 40016,
+    "name": "Aldeonte"
+  },
+  {
+    "id": 40018,
+    "sourceId": 40017,
+    "name": "Anaya"
+  },
+  {
+    "id": 40019,
+    "sourceId": 40018,
+    "name": "Añe"
+  },
+  {
+    "id": 40021,
+    "sourceId": 40019,
+    "name": "Arahuetes"
+  },
+  {
+    "id": 40022,
+    "sourceId": 40020,
+    "name": "Arcones"
+  },
+  {
+    "id": 40023,
+    "sourceId": 40021,
+    "name": "Arevalillo de Cega"
+  },
+  {
+    "id": 40024,
+    "sourceId": 40022,
+    "name": "Armuña"
+  },
+  {
+    "id": 40026,
+    "sourceId": 40024,
+    "name": "Ayllón"
+  },
+  {
+    "id": 40028,
+    "sourceId": 40025,
+    "name": "Barbolla"
+  },
+  {
+    "id": 40029,
+    "sourceId": 40026,
+    "name": "Basardilla"
+  },
+  {
+    "id": 40031,
+    "sourceId": 40028,
+    "name": "Bercial"
+  },
+  {
+    "id": 40032,
+    "sourceId": 40029,
+    "name": "Bercimuel"
+  },
+  {
+    "id": 40033,
+    "sourceId": 40030,
+    "name": "Bernardos"
+  },
+  {
+    "id": 40035,
+    "sourceId": 40031,
+    "name": "Bernuy de Porreros"
+  },
+  {
+    "id": 40036,
+    "sourceId": 40032,
+    "name": "Boceguillas"
+  },
+  {
+    "id": 40037,
+    "sourceId": 40033,
+    "name": "Brieva"
+  },
+  {
+    "id": 40038,
+    "sourceId": 40034,
+    "name": "Caballar"
+  },
+  {
+    "id": 40039,
+    "sourceId": 40035,
+    "name": "Cabañas de Polendos"
+  },
+  {
+    "id": 40040,
+    "sourceId": 40036,
+    "name": "Cabezuela"
+  },
+  {
+    "id": 40041,
+    "sourceId": 40037,
+    "name": "Calabazas de Fuentidueña"
+  },
+  {
+    "id": 40043,
+    "sourceId": 40039,
+    "name": "Campo de San Pedro"
+  },
+  {
+    "id": 40044,
+    "sourceId": 40040,
+    "name": "Cantalejo"
+  },
+  {
+    "id": 40045,
+    "sourceId": 40041,
+    "name": "Cantimpalos"
+  },
+  {
+    "id": 40191,
+    "sourceId": 40161,
+    "name": "Carabias"
+  },
+  {
+    "id": 40047,
+    "sourceId": 40043,
+    "name": "Carbonero el Mayor"
+  },
+  {
+    "id": 40048,
+    "sourceId": 40044,
+    "name": "Carrascal del Río"
+  },
+  {
+    "id": 40050,
+    "sourceId": 40045,
+    "name": "Casla"
+  },
+  {
+    "id": 40051,
+    "sourceId": 40046,
+    "name": "Castillejo de Mesleón"
+  },
+  {
+    "id": 40053,
+    "sourceId": 40047,
+    "name": "Castro de Fuentidueña"
+  },
+  {
+    "id": 40054,
+    "sourceId": 40048,
+    "name": "Castrojimeno"
+  },
+  {
+    "id": 40055,
+    "sourceId": 40049,
+    "name": "Castroserna de Abajo"
+  },
+  {
+    "id": 40057,
+    "sourceId": 40051,
+    "name": "Castroserracín"
+  },
+  {
+    "id": 40058,
+    "sourceId": 40052,
+    "name": "Cedillo de la Torre"
+  },
+  {
+    "id": 40059,
+    "sourceId": 40053,
+    "name": "Cerezo de Abajo"
+  },
+  {
+    "id": 40060,
+    "sourceId": 40054,
+    "name": "Cerezo de Arriba"
+  },
+  {
+    "id": 40075,
+    "sourceId": 40065,
+    "name": "Chañe"
+  },
+  {
+    "id": 40061,
+    "sourceId": 40055,
+    "name": "Cilleruelo de San Mamés"
+  },
+  {
+    "id": 40063,
+    "sourceId": 40056,
+    "name": "Cobos de Fuentidueña"
+  },
+  {
+    "id": 40065,
+    "sourceId": 40057,
+    "name": "Coca"
+  },
+  {
+    "id": 40066,
+    "sourceId": 40058,
+    "name": "Codorniz"
+  },
+  {
+    "id": 40067,
+    "sourceId": 40059,
+    "name": "Collado Hermoso"
+  },
+  {
+    "id": 40068,
+    "sourceId": 40060,
+    "name": "Condado de Castilnovo"
+  },
+  {
+    "id": 40069,
+    "sourceId": 40061,
+    "name": "Corral de Ayllón"
+  },
+  {
+    "id": 40070,
+    "sourceId": 40902,
+    "name": "Cozuelos de Fuentidueña"
+  },
+  {
+    "id": 40071,
+    "sourceId": 40062,
+    "name": "Cubillo"
+  },
+  {
+    "id": 40072,
+    "sourceId": 40063,
+    "name": "Cuéllar"
+  },
+  {
+    "id": 40074,
+    "sourceId": 40905,
+    "name": "Cuevas de Provanco"
+  },
+  {
+    "id": 40078,
+    "sourceId": 40068,
+    "name": "Domingo García"
+  },
+  {
+    "id": 40079,
+    "sourceId": 40069,
+    "name": "Donhierro"
+  },
+  {
+    "id": 40081,
+    "sourceId": 40070,
+    "name": "Duruelo"
+  },
+  {
+    "id": 40082,
+    "sourceId": 40071,
+    "name": "Encinas"
+  },
+  {
+    "id": 40083,
+    "sourceId": 40072,
+    "name": "Encinillas"
+  },
+  {
+    "id": 40084,
+    "sourceId": 40073,
+    "name": "Escalona del Prado"
+  },
+  {
+    "id": 40085,
+    "sourceId": 40074,
+    "name": "Escarabajosa de Cabezas"
+  },
+  {
+    "id": 40086,
+    "sourceId": 40075,
+    "name": "Escobar de Polendos"
+  },
+  {
+    "id": 40087,
+    "sourceId": 40076,
+    "name": "Espinar, El"
+  },
+  {
+    "id": 40088,
+    "sourceId": 40077,
+    "name": "Espirdo"
+  },
+  {
+    "id": 40091,
+    "sourceId": 40078,
+    "name": "Fresneda de Cuéllar"
+  },
+  {
+    "id": 40092,
+    "sourceId": 40079,
+    "name": "Fresno de Cantespino"
+  },
+  {
+    "id": 40093,
+    "sourceId": 40080,
+    "name": "Fresno de la Fuente"
+  },
+  {
+    "id": 40094,
+    "sourceId": 40081,
+    "name": "Frumales"
+  },
+  {
+    "id": 40095,
+    "sourceId": 40082,
+    "name": "Fuente de Santa Cruz"
+  },
+  {
+    "id": 40096,
+    "sourceId": 40083,
+    "name": "Fuente el Olmo de Fuentidueña"
+  },
+  {
+    "id": 40097,
+    "sourceId": 40084,
+    "name": "Fuente el Olmo de Íscar"
+  },
+  {
+    "id": 40100,
+    "sourceId": 40086,
+    "name": "Fuentepelayo"
+  },
+  {
+    "id": 40101,
+    "sourceId": 40087,
+    "name": "Fuentepiñel"
+  },
+  {
+    "id": 40102,
+    "sourceId": 40088,
+    "name": "Fuenterrebollo"
+  },
+  {
+    "id": 40103,
+    "sourceId": 40089,
+    "name": "Fuentesaúco de Fuentidueña"
+  },
+  {
+    "id": 40105,
+    "sourceId": 40091,
+    "name": "Fuentesoto"
+  },
+  {
+    "id": 40106,
+    "sourceId": 40092,
+    "name": "Fuentidueña"
+  },
+  {
+    "id": 40107,
+    "sourceId": 40093,
+    "name": "Gallegos"
+  },
+  {
+    "id": 40108,
+    "sourceId": 40094,
+    "name": "Garcillán"
+  },
+  {
+    "id": 40109,
+    "sourceId": 40095,
+    "name": "Gomezserracín"
+  },
+  {
+    "id": 40111,
+    "sourceId": 40097,
+    "name": "Grajera"
+  },
+  {
+    "id": 40114,
+    "sourceId": 40099,
+    "name": "Honrubia de la Cuesta"
+  },
+  {
+    "id": 40115,
+    "sourceId": 40100,
+    "name": "Hontalbilla"
+  },
+  {
+    "id": 40116,
+    "sourceId": 40101,
+    "name": "Hontanares de Eresma"
+  },
+  {
+    "id": 40119,
+    "sourceId": 40103,
+    "name": "Huertos, Los"
+  },
+  {
+    "id": 40120,
+    "sourceId": 40104,
+    "name": "Ituero y Lama"
+  },
+  {
+    "id": 40122,
+    "sourceId": 40105,
+    "name": "Juarros de Riomoros"
+  },
+  {
+    "id": 40123,
+    "sourceId": 40106,
+    "name": "Juarros de Voltoya"
+  },
+  {
+    "id": 40124,
+    "sourceId": 40107,
+    "name": "Labajos"
+  },
+  {
+    "id": 40125,
+    "sourceId": 40108,
+    "name": "Laguna de Contreras"
+  },
+  {
+    "id": 40127,
+    "sourceId": 40109,
+    "name": "Languilla"
+  },
+  {
+    "id": 40128,
+    "sourceId": 40110,
+    "name": "Lastras de Cuéllar"
+  },
+  {
+    "id": 40129,
+    "sourceId": 40111,
+    "name": "Lastras del Pozo"
+  },
+  {
+    "id": 40130,
+    "sourceId": 40112,
+    "name": "Lastrilla, La"
+  },
+  {
+    "id": 40131,
+    "sourceId": 40113,
+    "name": "Losa, La"
+  },
+  {
+    "id": 40134,
+    "sourceId": 40115,
+    "name": "Maderuelo"
+  },
+  {
+    "id": 40137,
+    "sourceId": 40903,
+    "name": "Marazoleja"
+  },
+  {
+    "id": 40138,
+    "sourceId": 40118,
+    "name": "Marazuela"
+  },
+  {
+    "id": 40139,
+    "sourceId": 40119,
+    "name": "Martín Miguel"
+  },
+  {
+    "id": 40140,
+    "sourceId": 40120,
+    "name": "Martín Muñoz de la Dehesa"
+  },
+  {
+    "id": 40141,
+    "sourceId": 40121,
+    "name": "Martín Muñoz de las Posadas"
+  },
+  {
+    "id": 40142,
+    "sourceId": 40122,
+    "name": "Marugán"
+  },
+  {
+    "id": 40144,
+    "sourceId": 40124,
+    "name": "Mata de Cuéllar"
+  },
+  {
+    "id": 40143,
+    "sourceId": 40123,
+    "name": "Matabuena"
+  },
+  {
+    "id": 40145,
+    "sourceId": 40125,
+    "name": "Matilla, La"
+  },
+  {
+    "id": 40146,
+    "sourceId": 40126,
+    "name": "Melque de Cercos"
+  },
+  {
+    "id": 40147,
+    "sourceId": 40127,
+    "name": "Membibre de la Hoz"
+  },
+  {
+    "id": 40148,
+    "sourceId": 40128,
+    "name": "Migueláñez"
+  },
+  {
+    "id": 40150,
+    "sourceId": 40129,
+    "name": "Montejo de Arévalo"
+  },
+  {
+    "id": 40151,
+    "sourceId": 40130,
+    "name": "Montejo de la Vega de la Serrezuela"
+  },
+  {
+    "id": 40152,
+    "sourceId": 40131,
+    "name": "Monterrubio"
+  },
+  {
+    "id": 40154,
+    "sourceId": 40132,
+    "name": "Moral de Hornuez"
+  },
+  {
+    "id": 40157,
+    "sourceId": 40134,
+    "name": "Mozoncillo"
+  },
+  {
+    "id": 40158,
+    "sourceId": 40135,
+    "name": "Muñopedro"
+  },
+  {
+    "id": 40159,
+    "sourceId": 40136,
+    "name": "Muñoveros"
+  },
+  {
+    "id": 40162,
+    "sourceId": 40138,
+    "name": "Nava de la Asunción"
+  },
+  {
+    "id": 40163,
+    "sourceId": 40139,
+    "name": "Navafría"
+  },
+  {
+    "id": 40164,
+    "sourceId": 40140,
+    "name": "Navalilla"
+  },
+  {
+    "id": 40165,
+    "sourceId": 40141,
+    "name": "Navalmanzano"
+  },
+  {
+    "id": 40166,
+    "sourceId": 40142,
+    "name": "Navares de Ayuso"
+  },
+  {
+    "id": 40167,
+    "sourceId": 40143,
+    "name": "Navares de Enmedio"
+  },
+  {
+    "id": 40168,
+    "sourceId": 40144,
+    "name": "Navares de las Cuevas"
+  },
+  {
+    "id": 40169,
+    "sourceId": 40145,
+    "name": "Navas de Oro"
+  },
+  {
+    "id": 40279,
+    "sourceId": 40904,
+    "name": "Navas de Riofrío"
+  },
+  {
+    "id": 40170,
+    "sourceId": 40146,
+    "name": "Navas de San Antonio"
+  },
+  {
+    "id": 40172,
+    "sourceId": 40148,
+    "name": "Nieva"
+  },
+  {
+    "id": 40174,
+    "sourceId": 40149,
+    "name": "Olombrada"
+  },
+  {
+    "id": 40175,
+    "sourceId": 40150,
+    "name": "Orejana"
+  },
+  {
+    "id": 40177,
+    "sourceId": 40151,
+    "name": "Ortigosa de Pestaño"
+  },
+  {
+    "id": 40176,
+    "sourceId": 40901,
+    "name": "Ortigosa del Monte"
+  },
+  {
+    "id": 40178,
+    "sourceId": 40152,
+    "name": "Otero de Herreros"
+  },
+  {
+    "id": 40180,
+    "sourceId": 40154,
+    "name": "Pajarejos"
+  },
+  {
+    "id": 40182,
+    "sourceId": 40155,
+    "name": "Palazuelos de Eresma"
+  },
+  {
+    "id": 40184,
+    "sourceId": 40156,
+    "name": "Pedraza"
+  },
+  {
+    "id": 40185,
+    "sourceId": 40157,
+    "name": "Pelayos del Arroyo"
+  },
+  {
+    "id": 40187,
+    "sourceId": 40158,
+    "name": "Perosillo"
+  },
+  {
+    "id": 40188,
+    "sourceId": 40159,
+    "name": "Pinarejos"
+  },
+  {
+    "id": 40189,
+    "sourceId": 40160,
+    "name": "Pinarnegrillo"
+  },
+  {
+    "id": 40192,
+    "sourceId": 40162,
+    "name": "Prádena"
+  },
+  {
+    "id": 40193,
+    "sourceId": 40163,
+    "name": "Puebla de Pedraza"
+  },
+  {
+    "id": 40194,
+    "sourceId": 40164,
+    "name": "Rapariegos"
+  },
+  {
+    "id": 40212,
+    "sourceId": 40181,
+    "name": "Real Sitio de San Ildefonso"
+  },
+  {
+    "id": 40195,
+    "sourceId": 40165,
+    "name": "Rebollo"
+  },
+  {
+    "id": 40196,
+    "sourceId": 40166,
+    "name": "Remondo"
+  },
+  {
+    "id": 40198,
+    "sourceId": 40168,
+    "name": "Riaguas de San Bartolomé"
+  },
+  {
+    "id": 40200,
+    "sourceId": 40170,
+    "name": "Riaza"
+  },
+  {
+    "id": 40201,
+    "sourceId": 40171,
+    "name": "Ribota"
+  },
+  {
+    "id": 40202,
+    "sourceId": 40172,
+    "name": "Riofrío de Riaza"
+  },
+  {
+    "id": 40203,
+    "sourceId": 40173,
+    "name": "Roda de Eresma"
+  },
+  {
+    "id": 40204,
+    "sourceId": 40174,
+    "name": "Sacramenia"
+  },
+  {
+    "id": 40207,
+    "sourceId": 40176,
+    "name": "Samboal"
+  },
+  {
+    "id": 40208,
+    "sourceId": 40177,
+    "name": "San Cristóbal de Cuéllar"
+  },
+  {
+    "id": 40209,
+    "sourceId": 40178,
+    "name": "San Cristóbal de la Vega"
+  },
+  {
+    "id": 40280,
+    "sourceId": 40906,
+    "name": "San Cristóbal de Segovia"
+  },
+  {
+    "id": 40213,
+    "sourceId": 40182,
+    "name": "San Martín y Mudrián"
+  },
+  {
+    "id": 40214,
+    "sourceId": 40183,
+    "name": "San Miguel de Bernuy"
+  },
+  {
+    "id": 40215,
+    "sourceId": 40184,
+    "name": "San Pedro de Gaíllos"
+  },
+  {
+    "id": 40210,
+    "sourceId": 40179,
+    "name": "Sanchonuño"
+  },
+  {
+    "id": 40211,
+    "sourceId": 40180,
+    "name": "Sangarcía"
+  },
+  {
+    "id": 40217,
+    "sourceId": 40185,
+    "name": "Santa María la Real de Nieva"
+  },
+  {
+    "id": 40218,
+    "sourceId": 40186,
+    "name": "Santa Marta del Cerro"
+  },
+  {
+    "id": 40220,
+    "sourceId": 40188,
+    "name": "Santiuste de Pedraza"
+  },
+  {
+    "id": 40221,
+    "sourceId": 40189,
+    "name": "Santiuste de San Juan Bautista"
+  },
+  {
+    "id": 40222,
+    "sourceId": 40190,
+    "name": "Santo Domingo de Pirón"
+  },
+  {
+    "id": 40223,
+    "sourceId": 40191,
+    "name": "Santo Tomé del Puerto"
+  },
+  {
+    "id": 40224,
+    "sourceId": 40192,
+    "name": "Sauquillo de Cabezas"
+  },
+  {
+    "id": 40225,
+    "sourceId": 40193,
+    "name": "Sebúlcor"
+  },
+  {
+    "id": 40900,
+    "sourceId": 40194,
+    "name": "Segovia"
+  },
+  {
+    "id": 40227,
+    "sourceId": 40195,
+    "name": "Sepúlveda"
+  },
+  {
+    "id": 40228,
+    "sourceId": 40196,
+    "name": "Sequera de Fresno"
+  },
+  {
+    "id": 40232,
+    "sourceId": 40198,
+    "name": "Sotillo"
+  },
+  {
+    "id": 40233,
+    "sourceId": 40199,
+    "name": "Sotosalbos"
+  },
+  {
+    "id": 40234,
+    "sourceId": 40200,
+    "name": "Tabanera la Luenga"
+  },
+  {
+    "id": 40236,
+    "sourceId": 40201,
+    "name": "Tolocirio"
+  },
+  {
+    "id": 40241,
+    "sourceId": 40206,
+    "name": "Torre Val de San Pedro"
+  },
+  {
+    "id": 40237,
+    "sourceId": 40202,
+    "name": "Torreadrada"
+  },
+  {
+    "id": 40238,
+    "sourceId": 40203,
+    "name": "Torrecaballeros"
+  },
+  {
+    "id": 40239,
+    "sourceId": 40204,
+    "name": "Torrecilla del Pinar"
+  },
+  {
+    "id": 40240,
+    "sourceId": 40205,
+    "name": "Torreiglesias"
+  },
+  {
+    "id": 40242,
+    "sourceId": 40207,
+    "name": "Trescasas"
+  },
+  {
+    "id": 40243,
+    "sourceId": 40208,
+    "name": "Turégano"
+  },
+  {
+    "id": 40245,
+    "sourceId": 40210,
+    "name": "Urueñas"
+  },
+  {
+    "id": 40246,
+    "sourceId": 40211,
+    "name": "Valdeprados"
+  },
+  {
+    "id": 40248,
+    "sourceId": 40212,
+    "name": "Valdevacas de Montejo"
+  },
+  {
+    "id": 40249,
+    "sourceId": 40213,
+    "name": "Valdevacas y Guijar"
+  },
+  {
+    "id": 40255,
+    "sourceId": 40218,
+    "name": "Valle de Tabladillo"
+  },
+  {
+    "id": 40256,
+    "sourceId": 40219,
+    "name": "Vallelado"
+  },
+  {
+    "id": 40257,
+    "sourceId": 40220,
+    "name": "Valleruela de Pedraza"
+  },
+  {
+    "id": 40258,
+    "sourceId": 40221,
+    "name": "Valleruela de Sepúlveda"
+  },
+  {
+    "id": 40251,
+    "sourceId": 40214,
+    "name": "Valseca"
+  },
+  {
+    "id": 40252,
+    "sourceId": 40215,
+    "name": "Valtiendas"
+  },
+  {
+    "id": 40253,
+    "sourceId": 40216,
+    "name": "Valverde del Majano"
+  },
+  {
+    "id": 40260,
+    "sourceId": 40222,
+    "name": "Veganzones"
+  },
+  {
+    "id": 40261,
+    "sourceId": 40223,
+    "name": "Vegas de Matute"
+  },
+  {
+    "id": 40262,
+    "sourceId": 40224,
+    "name": "Ventosilla y Tejadilla"
+  },
+  {
+    "id": 40263,
+    "sourceId": 40225,
+    "name": "Villacastín"
+  },
+  {
+    "id": 40268,
+    "sourceId": 40228,
+    "name": "Villaverde de Íscar"
+  },
+  {
+    "id": 40269,
+    "sourceId": 40229,
+    "name": "Villaverde de Montejo"
+  },
+  {
+    "id": 40270,
+    "sourceId": 40230,
+    "name": "Villeguillo"
+  },
+  {
+    "id": 40272,
+    "sourceId": 40231,
+    "name": "Yanguas de Eresma"
+  },
+  {
+    "id": 40274,
+    "sourceId": 40233,
+    "name": "Zarzuela del Monte"
+  },
+  {
+    "id": 40275,
+    "sourceId": 40234,
+    "name": "Zarzuela del Pinar"
+  }
+]

@@ -1,0 +1,917 @@
+[
+  {
+    "id": 42002,
+    "sourceId": 42001,
+    "name": "Abejar"
+  },
+  {
+    "id": 42005,
+    "sourceId": 42003,
+    "name": "Adradas"
+  },
+  {
+    "id": 42006,
+    "sourceId": 42004,
+    "name": "Ágreda"
+  },
+  {
+    "id": 42012,
+    "sourceId": 42006,
+    "name": "Alconaba"
+  },
+  {
+    "id": 42014,
+    "sourceId": 42007,
+    "name": "Alcubilla de Avellaneda"
+  },
+  {
+    "id": 42015,
+    "sourceId": 42008,
+    "name": "Alcubilla de las Peñas"
+  },
+  {
+    "id": 42018,
+    "sourceId": 42009,
+    "name": "Aldealafuente"
+  },
+  {
+    "id": 42019,
+    "sourceId": 42010,
+    "name": "Aldealices"
+  },
+  {
+    "id": 42020,
+    "sourceId": 42011,
+    "name": "Aldealpozo"
+  },
+  {
+    "id": 42021,
+    "sourceId": 42012,
+    "name": "Aldealseñor"
+  },
+  {
+    "id": 42024,
+    "sourceId": 42013,
+    "name": "Aldehuela de Periáñez"
+  },
+  {
+    "id": 42025,
+    "sourceId": 42014,
+    "name": "Aldehuelas, Las"
+  },
+  {
+    "id": 42026,
+    "sourceId": 42015,
+    "name": "Alentisque"
+  },
+  {
+    "id": 42027,
+    "sourceId": 42016,
+    "name": "Aliud"
+  },
+  {
+    "id": 42028,
+    "sourceId": 42017,
+    "name": "Almajano"
+  },
+  {
+    "id": 42029,
+    "sourceId": 42018,
+    "name": "Almaluez"
+  },
+  {
+    "id": 42031,
+    "sourceId": 42019,
+    "name": "Almarza"
+  },
+  {
+    "id": 42032,
+    "sourceId": 42020,
+    "name": "Almazán"
+  },
+  {
+    "id": 42033,
+    "sourceId": 42021,
+    "name": "Almazul"
+  },
+  {
+    "id": 42034,
+    "sourceId": 42022,
+    "name": "Almenar de Soria"
+  },
+  {
+    "id": 42035,
+    "sourceId": 42023,
+    "name": "Alpanseque"
+  },
+  {
+    "id": 42038,
+    "sourceId": 42024,
+    "name": "Arancón"
+  },
+  {
+    "id": 42039,
+    "sourceId": 42025,
+    "name": "Arcos de Jalón"
+  },
+  {
+    "id": 42040,
+    "sourceId": 42026,
+    "name": "Arenillas"
+  },
+  {
+    "id": 42041,
+    "sourceId": 42027,
+    "name": "Arévalo de la Sierra"
+  },
+  {
+    "id": 42045,
+    "sourceId": 42028,
+    "name": "Ausejo de la Sierra"
+  },
+  {
+    "id": 42047,
+    "sourceId": 42029,
+    "name": "Baraona"
+  },
+  {
+    "id": 42048,
+    "sourceId": 42030,
+    "name": "Barca"
+  },
+  {
+    "id": 42049,
+    "sourceId": 42031,
+    "name": "Barcones"
+  },
+  {
+    "id": 42051,
+    "sourceId": 42032,
+    "name": "Bayubas de Abajo"
+  },
+  {
+    "id": 42052,
+    "sourceId": 42033,
+    "name": "Bayubas de Arriba"
+  },
+  {
+    "id": 42055,
+    "sourceId": 42034,
+    "name": "Beratón"
+  },
+  {
+    "id": 42056,
+    "sourceId": 42035,
+    "name": "Berlanga de Duero"
+  },
+  {
+    "id": 42058,
+    "sourceId": 42036,
+    "name": "Blacos"
+  },
+  {
+    "id": 42059,
+    "sourceId": 42037,
+    "name": "Bliecos"
+  },
+  {
+    "id": 42064,
+    "sourceId": 42038,
+    "name": "Borjabad"
+  },
+  {
+    "id": 42065,
+    "sourceId": 42039,
+    "name": "Borobia"
+  },
+  {
+    "id": 42068,
+    "sourceId": 42041,
+    "name": "Buberos"
+  },
+  {
+    "id": 42070,
+    "sourceId": 42042,
+    "name": "Buitrago"
+  },
+  {
+    "id": 42071,
+    "sourceId": 42043,
+    "name": "Burgo de Osma-Ciudad de Osma"
+  },
+  {
+    "id": 42072,
+    "sourceId": 42044,
+    "name": "Cabrejas del Campo"
+  },
+  {
+    "id": 42073,
+    "sourceId": 42045,
+    "name": "Cabrejas del Pinar"
+  },
+  {
+    "id": 42075,
+    "sourceId": 42046,
+    "name": "Calatañazor"
+  },
+  {
+    "id": 42077,
+    "sourceId": 42048,
+    "name": "Caltojar"
+  },
+  {
+    "id": 42079,
+    "sourceId": 42049,
+    "name": "Candilichera"
+  },
+  {
+    "id": 42081,
+    "sourceId": 42050,
+    "name": "Cañamaque"
+  },
+  {
+    "id": 42082,
+    "sourceId": 42051,
+    "name": "Carabantes"
+  },
+  {
+    "id": 42083,
+    "sourceId": 42052,
+    "name": "Caracena"
+  },
+  {
+    "id": 42086,
+    "sourceId": 42053,
+    "name": "Carrascosa de Abajo"
+  },
+  {
+    "id": 42088,
+    "sourceId": 42054,
+    "name": "Carrascosa de la Sierra"
+  },
+  {
+    "id": 42089,
+    "sourceId": 42055,
+    "name": "Casarejos"
+  },
+  {
+    "id": 42092,
+    "sourceId": 42056,
+    "name": "Castilfrío de la Sierra"
+  },
+  {
+    "id": 42094,
+    "sourceId": 42058,
+    "name": "Castillejo de Robledo"
+  },
+  {
+    "id": 42093,
+    "sourceId": 42057,
+    "name": "Castilruiz"
+  },
+  {
+    "id": 42095,
+    "sourceId": 42059,
+    "name": "Centenera de Andaluz"
+  },
+  {
+    "id": 42096,
+    "sourceId": 42060,
+    "name": "Cerbón"
+  },
+  {
+    "id": 42097,
+    "sourceId": 42061,
+    "name": "Cidones"
+  },
+  {
+    "id": 42098,
+    "sourceId": 42062,
+    "name": "Cigudosa"
+  },
+  {
+    "id": 42099,
+    "sourceId": 42063,
+    "name": "Cihuela"
+  },
+  {
+    "id": 42100,
+    "sourceId": 42064,
+    "name": "Ciria"
+  },
+  {
+    "id": 42102,
+    "sourceId": 42065,
+    "name": "Cirujales del Río"
+  },
+  {
+    "id": 42107,
+    "sourceId": 42068,
+    "name": "Coscurita"
+  },
+  {
+    "id": 42108,
+    "sourceId": 42069,
+    "name": "Covaleda"
+  },
+  {
+    "id": 42109,
+    "sourceId": 42070,
+    "name": "Cubilla"
+  },
+  {
+    "id": 42111,
+    "sourceId": 42071,
+    "name": "Cubo de la Solana"
+  },
+  {
+    "id": 42114,
+    "sourceId": 42073,
+    "name": "Cueva de Ágreda"
+  },
+  {
+    "id": 42120,
+    "sourceId": 42075,
+    "name": "Dévanos"
+  },
+  {
+    "id": 42121,
+    "sourceId": 42076,
+    "name": "Deza"
+  },
+  {
+    "id": 42124,
+    "sourceId": 42078,
+    "name": "Duruelo de la Sierra"
+  },
+  {
+    "id": 42125,
+    "sourceId": 42079,
+    "name": "Escobosa de Almazán"
+  },
+  {
+    "id": 42126,
+    "sourceId": 42080,
+    "name": "Espeja de San Marcelino"
+  },
+  {
+    "id": 42127,
+    "sourceId": 42081,
+    "name": "Espejón"
+  },
+  {
+    "id": 42128,
+    "sourceId": 42082,
+    "name": "Estepa de San Juan"
+  },
+  {
+    "id": 42132,
+    "sourceId": 42083,
+    "name": "Frechilla de Almazán"
+  },
+  {
+    "id": 42133,
+    "sourceId": 42084,
+    "name": "Fresno de Caracena"
+  },
+  {
+    "id": 42135,
+    "sourceId": 42085,
+    "name": "Fuentearmegil"
+  },
+  {
+    "id": 42137,
+    "sourceId": 42086,
+    "name": "Fuentecambrón"
+  },
+  {
+    "id": 42139,
+    "sourceId": 42087,
+    "name": "Fuentecantos"
+  },
+  {
+    "id": 42142,
+    "sourceId": 42088,
+    "name": "Fuentelmonge"
+  },
+  {
+    "id": 42143,
+    "sourceId": 42089,
+    "name": "Fuentelsaz de Soria"
+  },
+  {
+    "id": 42144,
+    "sourceId": 42090,
+    "name": "Fuentepinilla"
+  },
+  {
+    "id": 42146,
+    "sourceId": 42092,
+    "name": "Fuentes de Magaña"
+  },
+  {
+    "id": 42147,
+    "sourceId": 42093,
+    "name": "Fuentestrún"
+  },
+  {
+    "id": 42150,
+    "sourceId": 42094,
+    "name": "Garray"
+  },
+  {
+    "id": 42151,
+    "sourceId": 42095,
+    "name": "Golmayo"
+  },
+  {
+    "id": 42152,
+    "sourceId": 42096,
+    "name": "Gómara"
+  },
+  {
+    "id": 42153,
+    "sourceId": 42097,
+    "name": "Gormaz"
+  },
+  {
+    "id": 42154,
+    "sourceId": 42098,
+    "name": "Herrera de Soria"
+  },
+  {
+    "id": 42157,
+    "sourceId": 42100,
+    "name": "Hinojosa del Campo"
+  },
+  {
+    "id": 42169,
+    "sourceId": 42103,
+    "name": "Langa de Duero"
+  },
+  {
+    "id": 42172,
+    "sourceId": 42105,
+    "name": "Liceras"
+  },
+  {
+    "id": 42175,
+    "sourceId": 42106,
+    "name": "Losilla, La"
+  },
+  {
+    "id": 42178,
+    "sourceId": 42107,
+    "name": "Magaña"
+  },
+  {
+    "id": 42179,
+    "sourceId": 42108,
+    "name": "Maján"
+  },
+  {
+    "id": 42182,
+    "sourceId": 42110,
+    "name": "Matalebreras"
+  },
+  {
+    "id": 42183,
+    "sourceId": 42111,
+    "name": "Matamala de Almazán"
+  },
+  {
+    "id": 42187,
+    "sourceId": 42113,
+    "name": "Medinaceli"
+  },
+  {
+    "id": 42190,
+    "sourceId": 42115,
+    "name": "Miño de Medinaceli"
+  },
+  {
+    "id": 42191,
+    "sourceId": 42116,
+    "name": "Miño de San Esteban"
+  },
+  {
+    "id": 42193,
+    "sourceId": 42117,
+    "name": "Molinos de Duero"
+  },
+  {
+    "id": 42194,
+    "sourceId": 42118,
+    "name": "Momblona"
+  },
+  {
+    "id": 42195,
+    "sourceId": 42119,
+    "name": "Monteagudo de las Vicarías"
+  },
+  {
+    "id": 42196,
+    "sourceId": 42120,
+    "name": "Montejo de Tiermes"
+  },
+  {
+    "id": 42197,
+    "sourceId": 42121,
+    "name": "Montenegro de Cameros"
+  },
+  {
+    "id": 42201,
+    "sourceId": 42123,
+    "name": "Morón de Almazán"
+  },
+  {
+    "id": 42202,
+    "sourceId": 42124,
+    "name": "Muriel de la Fuente"
+  },
+  {
+    "id": 42203,
+    "sourceId": 42125,
+    "name": "Muriel Viejo"
+  },
+  {
+    "id": 42205,
+    "sourceId": 42127,
+    "name": "Nafría de Ucero"
+  },
+  {
+    "id": 42207,
+    "sourceId": 42128,
+    "name": "Narros"
+  },
+  {
+    "id": 42209,
+    "sourceId": 42129,
+    "name": "Navaleno"
+  },
+  {
+    "id": 42210,
+    "sourceId": 42130,
+    "name": "Nepas"
+  },
+  {
+    "id": 42213,
+    "sourceId": 42131,
+    "name": "Nolay"
+  },
+  {
+    "id": 42216,
+    "sourceId": 42132,
+    "name": "Noviercas"
+  },
+  {
+    "id": 42219,
+    "sourceId": 42134,
+    "name": "Ólvega"
+  },
+  {
+    "id": 42220,
+    "sourceId": 42135,
+    "name": "Oncala"
+  },
+  {
+    "id": 42228,
+    "sourceId": 42139,
+    "name": "Pinilla del Campo"
+  },
+  {
+    "id": 42232,
+    "sourceId": 42140,
+    "name": "Portillo de Soria"
+  },
+  {
+    "id": 42233,
+    "sourceId": 42141,
+    "name": "Póveda de Soria, La"
+  },
+  {
+    "id": 42234,
+    "sourceId": 42142,
+    "name": "Pozalmuro"
+  },
+  {
+    "id": 42236,
+    "sourceId": 42144,
+    "name": "Quintana Redonda"
+  },
+  {
+    "id": 42237,
+    "sourceId": 42145,
+    "name": "Quintanas de Gormaz"
+  },
+  {
+    "id": 42241,
+    "sourceId": 42148,
+    "name": "Quiñonería"
+  },
+  {
+    "id": 42242,
+    "sourceId": 42149,
+    "name": "Rábanos, Los"
+  },
+  {
+    "id": 42244,
+    "sourceId": 42151,
+    "name": "Rebollar"
+  },
+  {
+    "id": 42246,
+    "sourceId": 42152,
+    "name": "Recuerda"
+  },
+  {
+    "id": 42248,
+    "sourceId": 42153,
+    "name": "Rello"
+  },
+  {
+    "id": 42249,
+    "sourceId": 42154,
+    "name": "Renieblas"
+  },
+  {
+    "id": 42250,
+    "sourceId": 42155,
+    "name": "Retortillo de Soria"
+  },
+  {
+    "id": 42252,
+    "sourceId": 42156,
+    "name": "Reznos"
+  },
+  {
+    "id": 42253,
+    "sourceId": 42157,
+    "name": "Riba de Escalote, La"
+  },
+  {
+    "id": 42254,
+    "sourceId": 42158,
+    "name": "Rioseco de Soria"
+  },
+  {
+    "id": 42255,
+    "sourceId": 42159,
+    "name": "Rollamienta"
+  },
+  {
+    "id": 42257,
+    "sourceId": 42160,
+    "name": "Royo, El"
+  },
+  {
+    "id": 42259,
+    "sourceId": 42161,
+    "name": "Salduero"
+  },
+  {
+    "id": 42263,
+    "sourceId": 42162,
+    "name": "San Esteban de Gormaz"
+  },
+  {
+    "id": 42264,
+    "sourceId": 42163,
+    "name": "San Felices"
+  },
+  {
+    "id": 42265,
+    "sourceId": 42164,
+    "name": "San Leonardo de Yagüe"
+  },
+  {
+    "id": 42266,
+    "sourceId": 42165,
+    "name": "San Pedro Manrique"
+  },
+  {
+    "id": 42267,
+    "sourceId": 42166,
+    "name": "Santa Cruz de Yanguas"
+  },
+  {
+    "id": 42268,
+    "sourceId": 42167,
+    "name": "Santa María de Huerta"
+  },
+  {
+    "id": 42269,
+    "sourceId": 42168,
+    "name": "Santa María de las Hoyas"
+  },
+  {
+    "id": 42274,
+    "sourceId": 42171,
+    "name": "Serón de Nágima"
+  },
+  {
+    "id": 42275,
+    "sourceId": 42172,
+    "name": "Soliedra"
+  },
+  {
+    "id": 42900,
+    "sourceId": 42173,
+    "name": "Soria"
+  },
+  {
+    "id": 42278,
+    "sourceId": 42174,
+    "name": "Sotillo del Rincón"
+  },
+  {
+    "id": 42280,
+    "sourceId": 42175,
+    "name": "Suellacabras"
+  },
+  {
+    "id": 42281,
+    "sourceId": 42176,
+    "name": "Tajahuerce"
+  },
+  {
+    "id": 42282,
+    "sourceId": 42177,
+    "name": "Tajueco"
+  },
+  {
+    "id": 42283,
+    "sourceId": 42178,
+    "name": "Talveila"
+  },
+  {
+    "id": 42287,
+    "sourceId": 42181,
+    "name": "Tardelcuende"
+  },
+  {
+    "id": 42289,
+    "sourceId": 42182,
+    "name": "Taroda"
+  },
+  {
+    "id": 42290,
+    "sourceId": 42183,
+    "name": "Tejado"
+  },
+  {
+    "id": 42292,
+    "sourceId": 42184,
+    "name": "Torlengua"
+  },
+  {
+    "id": 42295,
+    "sourceId": 42185,
+    "name": "Torreblacos"
+  },
+  {
+    "id": 42298,
+    "sourceId": 42187,
+    "name": "Torrubia de Soria"
+  },
+  {
+    "id": 42299,
+    "sourceId": 42188,
+    "name": "Trévago"
+  },
+  {
+    "id": 42300,
+    "sourceId": 42189,
+    "name": "Ucero"
+  },
+  {
+    "id": 42302,
+    "sourceId": 42190,
+    "name": "Vadillo"
+  },
+  {
+    "id": 42304,
+    "sourceId": 42191,
+    "name": "Valdeavellano de Tera"
+  },
+  {
+    "id": 42305,
+    "sourceId": 42192,
+    "name": "Valdegeña"
+  },
+  {
+    "id": 42306,
+    "sourceId": 42193,
+    "name": "Valdelagua del Cerro"
+  },
+  {
+    "id": 42307,
+    "sourceId": 42194,
+    "name": "Valdemaluque"
+  },
+  {
+    "id": 42309,
+    "sourceId": 42195,
+    "name": "Valdenebro"
+  },
+  {
+    "id": 42310,
+    "sourceId": 42196,
+    "name": "Valdeprado"
+  },
+  {
+    "id": 42311,
+    "sourceId": 42197,
+    "name": "Valderrodilla"
+  },
+  {
+    "id": 42313,
+    "sourceId": 42198,
+    "name": "Valtajeros"
+  },
+  {
+    "id": 42318,
+    "sourceId": 42200,
+    "name": "Velamazán"
+  },
+  {
+    "id": 42319,
+    "sourceId": 42201,
+    "name": "Velilla de la Sierra"
+  },
+  {
+    "id": 42320,
+    "sourceId": 42202,
+    "name": "Velilla de los Ajos"
+  },
+  {
+    "id": 42325,
+    "sourceId": 42204,
+    "name": "Viana de Duero"
+  },
+  {
+    "id": 42328,
+    "sourceId": 42205,
+    "name": "Villaciervos"
+  },
+  {
+    "id": 42330,
+    "sourceId": 42206,
+    "name": "Villanueva de Gormaz"
+  },
+  {
+    "id": 42331,
+    "sourceId": 42207,
+    "name": "Villar del Ala"
+  },
+  {
+    "id": 42332,
+    "sourceId": 42208,
+    "name": "Villar del Campo"
+  },
+  {
+    "id": 42333,
+    "sourceId": 42209,
+    "name": "Villar del Río"
+  },
+  {
+    "id": 42335,
+    "sourceId": 42211,
+    "name": "Villares de Soria, Los"
+  },
+  {
+    "id": 42337,
+    "sourceId": 42212,
+    "name": "Villasayas"
+  },
+  {
+    "id": 42338,
+    "sourceId": 42213,
+    "name": "Villaseca de Arciel"
+  },
+  {
+    "id": 42340,
+    "sourceId": 42215,
+    "name": "Vinuesa"
+  },
+  {
+    "id": 42341,
+    "sourceId": 42216,
+    "name": "Vizmanos"
+  },
+  {
+    "id": 42342,
+    "sourceId": 42217,
+    "name": "Vozmediano"
+  },
+  {
+    "id": 42343,
+    "sourceId": 42218,
+    "name": "Yanguas"
+  },
+  {
+    "id": 42344,
+    "sourceId": 42219,
+    "name": "Yelo"
+  }
+]

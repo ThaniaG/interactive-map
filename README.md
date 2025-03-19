@@ -1,1 +1,1 @@
-# interactive-map
+# demo-mapbox
